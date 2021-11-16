@@ -1,0 +1,6 @@
+AspWebApiTemplate/Infrastructure/bin/
+AspWebApiTemplate/Infrastructure/obj/
+AspWebApiTemplate/Domain/obj/
+AspWebApiTemplate/Domain/bin/
+AspWebApiTemplate/Application/bin/
+AspWebApiTemplate/Application/obj/
