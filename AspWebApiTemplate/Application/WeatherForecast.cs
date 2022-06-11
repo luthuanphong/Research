@@ -1,4 +1,4 @@
-namespace AspWebApiTemplate
+namespace Application 
 {
     public class WeatherForecast
     {
